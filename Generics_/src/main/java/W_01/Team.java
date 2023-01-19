@@ -1,3 +1,5 @@
+package Day_01;
+
 import java.util.ArrayList;
 
 public class Team <T extends Player>{
@@ -27,4 +29,10 @@ public class Team <T extends Player>{
     public int numPlayers(){
         return this.members.size();
     }
+
+
+    public void method1(String str){}
+    public void method2(Integer int_1){}
+    public void method3(Object obj){}
+
 }
