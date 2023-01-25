@@ -20,6 +20,7 @@ public class ArraySorting {
         Sorting bubbleSorting = () -> System.out.println("Bubble sorting");
         as.sort(bubbleSorting);
 
+
     }
     private void sort(Sorting sorting){
     sorting.sort();
