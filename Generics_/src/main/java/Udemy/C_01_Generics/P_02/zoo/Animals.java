@@ -1,4 +1,3 @@
 package Udemy.C_01_Generics.P_02.zoo;
-
-public class Monkey {
+public class Animals {
 }

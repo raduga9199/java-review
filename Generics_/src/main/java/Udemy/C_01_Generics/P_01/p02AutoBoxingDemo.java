@@ -1,11 +1,9 @@
-package Udemy.P_01;
+package Udemy.C_01_Generics.P_01;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Iterator;
 import java.util.List;
 
-public class P_02_AutoBoxingDemo {
+public class p02AutoBoxingDemo {
     public static void main(String[] args) {
         /*
         List<Integer> list = Arrays.asList(1,2,3);

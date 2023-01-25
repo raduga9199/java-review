@@ -1,9 +1,8 @@
-package Udemy.P_01;
+package Udemy.C_01_Generics.P_01;
 
 import java.util.ArrayList;
-import java.util.Date;
 
-public class P_01_Generics {
+public class p01Generics {
 
     public static void main(String[] args) {
         ArrayList <String>name = new ArrayList();

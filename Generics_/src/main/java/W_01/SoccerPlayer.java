@@ -1,4 +1,4 @@
-package Day_01;
+package W_01;
 
 public class SoccerPlayer extends Player{
     public SoccerPlayer(String name) {

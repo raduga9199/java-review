@@ -1,4 +1,4 @@
-package Udemy.P_01.zoo;
+package Udemy.C_01_Generics.P_01.zoo;
 
 public class Zoo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Day_01;
+package W_01;
 
 public class TeamTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Udemy.C_01_Generics.P_01;
+package Udemy.C_01_Generics.P_02;
 
 import java.util.ArrayList;
 

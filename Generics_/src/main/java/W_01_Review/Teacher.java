@@ -1,4 +1,4 @@
-package Day_01_Review;
+package W_01_Review;
 
 public class Teacher{
     private String name;
