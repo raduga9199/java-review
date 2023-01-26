@@ -4,6 +4,7 @@
     <option name="USE_RELEASE_OPTION" value="false" />
     <excludeFromCompile>
       <directory url="file://$PROJECT_DIR$/Generics_/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/Collections_Lamda_Generics_StreamAPI/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
@@ -14,6 +15,7 @@
         <module name="oop-review" />
         <module name="lambda" />
         <module name="Generics_" />
+        <module name="Collections_Lamda_Generics_StreamAPI" />
         <module name="generics" />
       </profile>
     </annotationProcessing>
