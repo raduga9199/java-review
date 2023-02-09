@@ -1,2 +1,5 @@
-package task;public enum Color {
+package task;
+
+public enum Color {
+    RED, GREEN
 }
